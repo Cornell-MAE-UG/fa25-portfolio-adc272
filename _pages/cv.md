@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Andy Chen - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
@@ -8,7 +8,7 @@ permalink: /cv/
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [adc272@cornell.edu](mailto:adc272@cornell.edu) | | | **Phone:** +9173746610
 
 ---
 
@@ -20,17 +20,17 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  GPA: 3.625/4.0 | Graduation: August, 2025
 
-- **[High School Name]**  
+- **Townsend Harris**  
   *High School Diploma*  
-  Graduation: [Month, Year]
+  Graduation: May, 2024
 
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
-- **Programming:** Python, MATLAB  
+- **Software:** Autodesk Fusion 360,   
+- **Programming:** Java, Python, MATLAB  
 - **Tools:** 3D Printing, Laser Cutting  
 
 ---
