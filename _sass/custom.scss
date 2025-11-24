@@ -224,3 +224,10 @@ footer {
   margin-right: auto; /* center the whole table */
   border-collapse: collapse;
 }
+
+.rotate-90 {
+    /* 90 degrees clockwise rotation */
+    transform: rotate(-90deg); 
+    /* Important: preserves image quality */
+    transform-origin: center center;
+}
