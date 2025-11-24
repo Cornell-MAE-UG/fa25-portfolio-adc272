@@ -3,7 +3,7 @@ layout: project
 title: Thermodynamics
 description: Heat Exchanger Lab
 technologies: [Heat Exchanger, 2 Water Pumps, 4 Water Buckets, Ice, Water, Styrofoam, Immersion Heater, Thermocouple, 4 Thermometer, Food Dye]
-image: /assets/images/radio-machine-cad.jpg
+image: /assets/images/CounterFlowSetupPicture.jpg
 ---
 
 For Cornell's Engineering Thermodynamics Class (ENGRD 2210), we were asked to create our own operating conditions to learn about their different effects on a heat exchanger system. 
