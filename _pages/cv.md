@@ -40,6 +40,7 @@ Aspiring engineering student with a strong foundation in CAD and human-centered 
   *ENGRD 2210 Lab*  
   - Designed Operating Conditions to monitor the effects on a Heat Exchanger System
   - Understood the impact of changing fluid flowrate and fluid direction flow
+  - Understood the entropy change within a Heat Exchanger system
 
 - **Tactile Coding Block**:  
   *Project Team Community Project*  
