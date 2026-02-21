@@ -14,7 +14,7 @@ title_separator          : "-"
 subtitle                 : Andy Chen # site tagline that appears below site title in masthead
 name                     : Andy Chen
 description              : Andy Chen - Projects and CV 
-baseurl                  : /fa25-portfolio-adc272 # Set this to your repo name 
+baseurl                  : /fa25-portfolio-adc272/ # Set this to your repo name 
 
 # Theme and Style
 theme: jekyll-theme-minimal
