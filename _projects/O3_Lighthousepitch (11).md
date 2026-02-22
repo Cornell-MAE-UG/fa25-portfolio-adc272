@@ -12,6 +12,9 @@ SLF Lure Pitch
 
 **Client(s):** Cornell CALS Extension / E\&J Gallo Winery / National Grape 
 
+<br>
+<br>
+
 **Problem statement** 
 
 Spotted lantern flies are currently impacting grape harvests massively, almost 300 million dollars lost annually on the grape and wine industry in New York State alone. On top of affecting yield, they also impact quality of the harvests, over 10% quality reduction in just 4 years. 
