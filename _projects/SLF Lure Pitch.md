@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Mechanical Design SLF Lure
+title: SLF Lure Pitch
 description: SLF Lure Pitch to Cornell CALS Extension, E\&J Gallo Winery, National Grape 
 technologies: [CAD]
 image: /assets/images/Poster.jpg
