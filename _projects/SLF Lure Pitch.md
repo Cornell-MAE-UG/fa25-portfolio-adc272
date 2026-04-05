@@ -163,7 +163,7 @@ Our prototype converts wind into directed airflow using an anemometer-driven fan
 - Mechanical Stability
     - The anemometer should spin without wobbling
     - No parts should loosen after ~20 rotations
-    - Calculate expected efficiency and compare it to our data to see if stability may be hindering our mechanisms capabilities (In formula above or modified based on future iterations)
+    - Calculate expected efficiency and compare it to our data to see if stability may be hindering our mechanisms capabilities 
 
 - Environmental Stability
     - The anemometer should work with consistent efficiency from low winds of 1m/s to higher winds of 10-15m/s
