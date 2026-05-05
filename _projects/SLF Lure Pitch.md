@@ -14,8 +14,10 @@ image: /assets/images/Poster.jpg
 
 **Check out the project's:**
 
-• [Client Pitch](#Client-Pitch)   
-• [Functional Prototype](#functional-prototype)
+{: .nice-table style="margin-left: 0"}
+|:-------------|:--------------|:--------------|
+| [Client Pitch](#Client-Pitch) | [Functional Prototype](#functional-prototype) | [Client Report](#Client-Report) | 
+
 
 ---
 <a id="Client-Pitch"></a>
@@ -70,7 +72,6 @@ A humidifier with an adapter that can be attached to a tree or pole.
 - Author:, & Scott Elliott ARS Office of Communications. (n.d.). Spotted lanternfly reveals a potential weakness. USDA. <a href = "https://www.usda.gov/about-usda/news/blog/spotted-lanternfly-reveals-potential weakness\#:\~:text=%E2%80%9CThere%20were%20rumors%20that%20lanternflies,of%20%5Bthe%5D%20vibr"> https://www.usda.gov/about-usda/news/blog/spotted-lanternfly-reveals-potential-weakness </a>
 <br>
 
----
 --- 
 
 <a id="functional-prototype"></a>
@@ -112,10 +113,10 @@ A humidifier with an adapter that can be attached to a tree or pole.
 ![Photo of CupAnemometer]({{ "/assets/images/CupAnemometer.jpeg" | relative_url }}){: .center width="60%" }
 
   
-![Photo of CupAnemometer]({{ "/assets/images/AnemometerTopAssembly.jpeg" | relative_url }}){: .center width="60%" }
+![Photo of Top Assembly]({{ "/assets/images/AnemometerTopAssembly.jpeg" | relative_url }}){: .center width="60%" }
 
 
-![Photo of CupAnemometer]({{ "/assets/images/FunctionalPrototypeFinal.jpeg" | relative_url }}){: .center width="60%" }
+![Photo of Functional Prototype]({{ "/assets/images/FunctionalPrototypeFinal.jpeg" | relative_url }}){: .center width="60%" }
 
 ---
 **Design Test of the stability of the Anemometer Assembly**
@@ -168,3 +169,155 @@ Our prototype converts wind into directed airflow using an anemometer-driven fan
 - Environmental Stability
     - The anemometer should work with consistent efficiency from low winds of 1m/s to higher winds of 10-15m/s
     - The container does not fall/break under rough weather conditions
+
+---
+
+<a id="Client-Report"></a>
+<h3>Client Report</h3>
+
+**Context and Problem Statement:**
+
+Spotted lantern flies (SLFs) are currently impacting grape harvests massively, almost 300 million dollars are lost annually in the grape and wine industry in New York State alone. On top of affecting yield, they also impact the quality of the harvests. If we  can limit their destruction by attracting the spotted lantern flies to hotspots away from the fields, we can save farmers thousands of dollars and reduce food waste. 
+
+---
+
+**Final Prototype and Application:** 
+ 
+![Photo of Final Prototype]({{ "/assets/images/Final Prototype.jpeg" | relative_url }}){: .center width="60%" }
+
+
+We have built a mockup of the mechanical mechanism for our diffuser system which would store chemicals such as Tree of Heaven sap, honeydew, or different combinations of these compounds. An anemometer is attached to the top that has been linked to a fan below the lid by a gear system to induce airflow within the box when wind flows. The goal is to mimic a more natural release pattern. We have also incorporated a mounting system which involves ratchet strapping the box to any structure needed e.g trees, telephone poles etc. However, future iterations of the design may be given modular attachment methods to allow for easier application though that will not be a major priority informing future design direction. 
+This will be relevant for our clients as they have the ability to choose a hotspot for the spotted lanternflies rather than being controlled by the affected harvest. They would be able to use this with the intuitive mounting system and be able to expand it by simplifying getting more of these lures. As chemicals get developed to attract these spotted lanternflies more efficiently, the liquid can easily be replaced and the mechanism still remains the same.
+
+---
+
+**Conclusion and Recommendation:** 
+
+From our efforts to solve this issue, we determined that the optimal next steps should be to get in contact with growers and test our solution where it is needed. In this way, we could obtain more detailed data on the application sites for our product and the conditions under which it must operate. Some considerations that we have in preparation for testing are determining how we can make the system function at lower wind speeds (such as by modifying in favor of lighter components or using smoother edged parts to reduce friction) and how we can deal with the SLFs after luring them. Based on our test results, our main issue is the high wind speed that must be reached before the system starts given that the system moved minimally during testing. Thus, going into the field will be tremendously helpful for informing our future redesigns as we will be able to know immediately how effective a new design proposal will be. For future prototypes, we are thinking that it is important to prioritize rotational speed for the turbine so that the fans within the box will also spin faster. In order to accomplish this goal, we plan to experiment with more efficient turbine designs that will optimize wind speed by looking at how modern wind turbines are designed. However, as the design is meant to be used for long-term applications we want the system to release the pheromones at a steady and constant rate. Hence, it is important that the rotational speed is not too high. 
+
+---
+
+**Testing Results**
+
+**Volumetric Flow Rate Comparison (With Gears Attached)** 
+
+The comparison was conducted based on the final testing results:
+
+![Photo of Comparison]({{ "/assets/images/Testing Calc.jpg" | relative_url }}){: .center width="80%" }  
+
+<i>This may be a small efficiency but it is a more accurate representation of the efficiency than what we used for the initial testing. The initial testing is in the next section. This low efficiency result showcases the additional amounts of friction etc involved in the new design.</i> 
+
+---
+
+**Prototype and Testing Details:** 
+
+**Initial Prototype**
+
+![Photo of CSLFDesign]({{ "/assets/images/SLFDesign.jpg" | relative_url }}){: .center width="60%" }  
+![Photo of Functional Prototype]({{ "/assets/images/FunctionalPrototypeFinal.jpeg" | relative_url }}){: .center width="60%" }
+
+
+We tested the <i>Stability of Anemometer Assembly (6 way connector + Cup Anemometers)</i> with a constant applied wind speed of 5.1 mph.
+
+**Height of Anemometer vs Produced Wind Speed (measured by a digital wind speed indicator)** 
+
+{: .nice-table }
+| Height (in) | Trial 1 (mph) | Trial 2 (mph) | Trial 3 (mph) | Stability |
+|:------:|:-------:|:-------:|:-------:|:---------:|
+|    4   | 0.6     | 0.7     | 0.7     | Most Stable |
+|    6   | 0.6     | 0.6     | 0.7     | More Stable |
+| (<i>Original</i>) 10  | 0.6     | 0.6     | 0.6     | Pretty Shaky |
+
+**Iteration for next prototype:** 
+
+We will lower the anemometer mechanism assembly and shorten the main D-Shaft to cut down on the weight, and increase stability by lowering the system’s center of mass to the container. Our current assembly and test design isn’t quite sensitive enough to show a clear improvement (baseline measurement of our air speed meter is 0.6 mph, and only measures in one decimal increments), but we observed the anemometer to spin much quicker at lower heights.
+
+{: .nice-table }
+| Applied Wind Speed (mph)  | Produced Wind Speed (mph) | Efficiency |
+|:---------------:|:------------------:|:-----------------:|
+|  5.1  |  .7   |  .14   |
+|  3.1  |  .6   |  .19   |
+|  4.0  |  .6   |  .15   |
+|  4.6  |  .7   |  .15   |
+|  3.8  |  .6   |  .16   |
+|  4.4  |  .7   |  .16   |
+
+
+**Iteration for next prototype:** 
+
+We would add a gear ratio into the anemometer/fan linkage so the energy produced by the anemometer is amplified instead of having it directly spin the fan, since our efficiency is fairly low at the moment. Again, our test system is not quite sensitive enough to capture distinctions between the test results, so, hopefully, we will be able to capture more of a difference with higher wind speeds produced by using higher precision equipment in the future.
+
+
+**Second Prototype**
+
+![Photo of Second Prototype]({{ "/assets/images/Second Prototype.jpeg" | relative_url }}){: .center width="60%" }
+
+**Iteration for next prototype:** 
+
+We would add a bigger gear ratio into the anemometer/fan linkage. The gear ratio did work but the limitation of McMaster was that the biggest ratio was 1.5 when a bigger one would help a lot. We would also experiment with the materials and designs used in place of the cups in the anemometer design so that it would maximize the input air force while minimizing the weight.
+
+
+**References**
+
+- Times Union. (2024). Spotted lanternflies spotted in upstate New York.
+<a href = "https://www.timesunion.com/hudsonvalley/outdoors/article/spotted-lanternflies-upstate-new-york-20822211.php">https://www.timesunion.com/hudsonvalley/outdoors/article/spotted-lanternflies-upstate-new-york-20822211.php</a>
+- Journal of Economic Entomology
+ Author(s). (2022). [Title of article]. Journal of Economic Entomology, 115(6), 2116–XXXX.
+ <a href = "https://academic.oup.com/jee/article/115/6/2116/6777183">https://academic.oup.com/jee/article/115/6/2116/6777183</a>
+- Environmental Entomology
+ Author(s). (2020). [Title of article]. Environmental Entomology, 49(5), 1049–XXXX.
+ <a href = "https://academic.oup.com/ee/article/49/5/1049/5900068">https://academic.oup.com/ee/article/49/5/1049/5900068</a>
+- United States Department of Agriculture
+ United States Department of Agriculture. (n.d.). Spotted lanternfly reveals potential weakness.
+ <a href = "https://www.usda.gov/about-usda/news/blog/spotted-lanternfly-reveals-potential-weakness">https://www.usda.gov/about-usda/news/blog/spotted-lanternfly-reveals-potential-weakness</a>
+
+
+**Bill of Materials**
+
+<i>Everything needed in the Final Product (The Component List of the final prototype)</i>
+
+{: .nice-table }
+
+| Part                                                                 | Part #     | Quantity | Description                     | Cost     |
+|:----------------------------------------------------------------------|:-----------|:--------:|:--------------------------------|---------:|
+| Cinching Strap with Squeeze-Release Buckle, Nylon, Black, 4 ft Long  | 29695T991  | 2        | 1" Wide                         | $11.14   |
+| Ultra-Low-Friction UHMW Polyethylene Bars, 1/4", 3 ft long           | 8701K37    | 1        | 1/4" Diameter                   | $4.68    |
+| Clamping Shaft Collar for 1/4" Diameter, 303 Stainless Steel         | 6435K32    | 2        | 1/4" Diameter                   | $16.40   |
+| Ultra-Low-Friction UHMW Polyethylene Bars, 1/4", 3 ft long           | 8701K37    | 2        | 1/4" Diameter                   | $9.36    |
+| 20° Pressure Angle Plastic Gear, Round Bore, 24 Pitch, 36 Teeth      | 2662N11    | 2        | Round Bore, 32 Pitch, 36 Teeth  | $6.77    |
+| 20° Pressure Angle Plastic Gear, Round Bore, 24 Pitch, 24 Teeth      | 2662N9     | 4        | Round Bore, 32 Pitch, 48 Teeth  | $22.76   |
+| Ball Bearing, Open, R168, for 1/4" Shaft Diameter                    | 57155K355  | 5        | 1/4" Shaft Diameter             | $30.00   |
+| Surface-Mount Hinge, Brass, Nonremovable Pin, 2" x 11/16" Door Leaf  | 1603A27    | 2        | 2" x 11/16" Door Leaf           | $6.96    |
+| Box Case + Lid                                                       | —          | —        | 220 g PLA @ $0.05/g               | $11.00   |
+| Six Way Connector Piece                                              | —          | —        | 5 g PLA @ $0.05/g                 | $0.25    |
+| 4 Cups                                                               | —          | —        | 20 g PLA @ $0.05/g                | $1.00    |
+| Box Case + Lid                                                       | —          | —        | 875 g PLA @ $0.05/g               | $43.75   |
+| Gemfan D90 90mm 3.5" Ducted 3-Blade Propeller (Set of 4)             | —          | 1        | M5 Shaft, 5 mm                  | $3.49    |
+
+<br>
+
+**Bill of Materials of Overall Process, All Prototyping costs included**
+
+{: .nice-table }
+
+| Part                                                                 | Part #     | Quantity | Description                              | Cost     |
+|:----------------------------------------------------------------------|:-----------|:--------:|:-----------------------------------------|---------:|
+| DC Equipment Cooling Fan                                             | 8774N26    | 3        | 1.97" Square Hole, 0.39" Deep            | $14.49   |
+| Cinching Strap with Squeeze-Release Buckle, Nylon, Black, 4 ft Long  | 29695T991  | 2        | 1" Wide                                  | $11.14   |
+| Quick-Tight Tie Down Strap, 3 ft Long                                | 8834T651   | 1        | 2" Wide                                  | $15.20   |
+| PTFE Shim Stock                                                      | 1192N11    | 3        | 8" x 12" Sheet, 0.001" Thick             | $11.01   |
+| D-Profile Rotary Shaft, 1045 Carbon Steel                            | 8632T139   | 1        | 12" Long, 1/4" Diameter                  | $10.86   |
+| Ultra-Low-Friction UHMW Polyethylene Bars, 1/4", 3 ft long           | 8701K37    | 2        | 1/4" Diameter                            | $9.36    |
+| Plastic Hinges without Holes, Clear Acrylic Plastic                  | 11185A141  | 10       | 1/2" x 11/16" Door Leaf                  | $8.80    |
+| Clamping Shaft Collar for 1/4" Diameter, 303 Stainless Steel         | 6435K32    | 2        | 1/4" Diameter                            | $16.40   |
+| 20° Pressure Angle Plastic Gear, Round Bore, 24 Pitch, 36 Teeth      | 2662N11    | 2        | Round Bore, 32 Pitch, 36 Teeth           | $6.77    |
+| 20° Pressure Angle Plastic Gear, Round Bore, 24 Pitch, 24 Teeth      | 2662N9     | 4        | Round Bore, 32 Pitch, 48 Teeth           | $22.76   |
+| Ball Bearing, Open, R168, for 1/4" Shaft Diameter                    | 57155K355  | 5        | 1/4" Shaft Diameter                      | $30.00   |
+| Surface-Mount Hinge with Holes, Brass, Nonremovable Pin              | 1603A27    | 2        | 2" x 11/16" Door Leaf                    | $6.96    |
+| Box Case + Lid                                                       | —          | —        | 220 g PLA @ $0.05/g                        | $11.00   |
+| Six Way Connector Piece                                              | —          | —        | 5 g PLA @ $0.05/g                          | $0.25    |
+| 4 Cups                                                               | —          | —        | 20 g PLA @ $0.05/g                         | $1.00    |
+| Box Case + Lid                                                       | —          | —        | 875 g PLA @ $0.05/g                        | $43.75   |
+| Gemfan D90 90mm 3.5" Ducted 3-Blade Propeller (Set of 4)             | —          | 1        | M5 Shaft, 5 mm                           | $3.49    |
+
+
