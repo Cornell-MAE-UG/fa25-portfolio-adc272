@@ -3,7 +3,7 @@ layout: project
 title: SLF Lure Pitch
 description: SLF Lure Pitch to Cornell CALS Extension, E\&J Gallo Winery, National Grape 
 technologies: [CAD/CAM, 3D Printing]
-image: /assets/images/Poster.jpg
+image: /assets/images/Final Prototype.jpeg
 ---
 
 **Team:** Team Lighthouse 
