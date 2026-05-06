@@ -1,14 +1,20 @@
 ---
 layout: project
 title: SLF Lure Pitch
-description: SLF Lure Pitch to Cornell CALS Extension, E\&J Gallo Winery, National Grape 
+description: SLF Lure Pitch to Cornell CALS Extension, E&J Gallo Winery, National Grape 
 technologies: [CAD/CAM, 3D Printing]
 image: /assets/images/Final Prototype.jpeg
 ---
 
 **Team:** Team Lighthouse 
 
-**Client(s):** Cornell CALS Extension; E\&J Gallo Winery; National Grape 
+**Client(s):** Cornell CALS Extension; E&J Gallo Winery; National Grape 
+
+---
+
+<b>Summary Overview of the Project</b>
+
+<i>This project is for the MAE 2250: Mechanical Design class. We were tasked with finding a solution for the Spotted Lanternflies, an invasive species, being a huge detriment to the grape harvest. Cornell CALS Extension, E&J Gallo Winery, and National Grape were all judges for our project. We were able to create a windpowered chemical lure container that would be able to distribute and act as a hot spot for the spotted lanternflies. This project was also one of the finalists for the Problem and Solution awards during judging.</i>
 
 ---
 
@@ -20,6 +26,7 @@ image: /assets/images/Final Prototype.jpeg
 
 
 ---
+
 <a id="Client-Pitch"></a>
 <h3>Client Pitch</h3> 
 
@@ -82,7 +89,7 @@ A humidifier with an adapter that can be attached to a tree or pole.
 *McMaster Total Budget Use: $92.58*
 
 {: .nice-table }
-| Device          | McMasterr Code | Net Price |
+| Device          | McMaster Code | Net Price |
 |:---------------:|:------------------:|:-----------------:|
 | <a href="https://www.mcmaster.com/products/8774n26/">DC Equipment Cooling Fan</a>   | 8774N26  | 14.49             |
 | <a href="https://www.mcmaster.com/products/29695T991/">Cinching Strap with Squeeze-Release Buckle, Nylon, Black, 4ft Long</a>  | 29695T991   | 11.14           |
