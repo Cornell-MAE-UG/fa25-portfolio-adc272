@@ -45,7 +45,7 @@ Aspiring engineering student with a strong foundation in CAD and human-centered 
 - **Tactile Coding Block**:  
   *Project Team Community Project*  
   - Designed Coding Lessons that allow for teachers to teach the concept of for-loops easily 
-  - Utilized a Bambu 3D-printer to print out Fusion 360 CADed Grade 1 Braille blocks
+  - Utilized a Bambu 3D-printer to print out Autodesk Fusion 360 CAD-ed Grade 1 Braille blocks
 
 ---
 
